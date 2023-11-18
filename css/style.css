@@ -41,6 +41,10 @@ html {
     margin-top: 1rem;
 }
 
+.title-svg {
+    margin-left: 1rem;
+}
+
 .button-view {
     color: white;
     background-color: #28C0F1;
